@@ -1,10 +1,10 @@
-import React from "react";
+// import React from "react";
 import "./navbar.scss";
 
 const navbar = () => {
   return (
     <div className="navbar">
-      {/*Sidebar*/}
+      {/* Sidebar */}
       <div className="wrapper">
         <span>Jinthusha Kones</span>
         <div className="social">
@@ -27,3 +27,4 @@ const navbar = () => {
 };
 
 export default navbar;
+
